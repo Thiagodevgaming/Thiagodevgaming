@@ -38,4 +38,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
 
-![snake gif](https://github.com/thiagodevgaming/thiagodevgaming/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/thiagodevgaming/thiagodevgaming/blob/output/github-contribution-grid-snake.svg)
