@@ -1,6 +1,8 @@
-## Olá Mundo! Seja bem vindo. Meu nome é Thiago e é um prazer vê-lo por aqui 😉
+## Olá Mundo! Me chamo Thiago 💪😉
 
-- Estudante Análise e Desenvolvimento de Sistemas 💻
+- Estudante Análise e Desenvolvimento de Sistemas - Instituto Federal do Mato Grosso do Sul - MS 
+- 💻 Estagiário do E.M. Mundo da Criança - MS
+- Minha meta é desenvolvimento Fullstack :space_invader:
 
 
 <div align="center">
@@ -15,15 +17,19 @@
 </br>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevgaming&layout=compact&langs_count=7&theme=dark"/>
+    <h1> Ferramentas e Linguagens </h1>
+   <img align="center" alt="Thiagodevgaming-JS" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thiagodevgaming-HTML" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thiagodevgaming-CSS" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 </div>
 </br>
  <div align="center">
+  <h2> Estou aprendendo </h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiagodevgaming-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiagodevgaming-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thiagodevgaming-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiagodevgaming-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alight="center" alt="Thiagodevgaming-LINUX" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img aligh="center" alt="Thiagodevgaming-JAVA" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alight="center" alt="Thiagodevgaming-PYTHON" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  </div>
 </br>
